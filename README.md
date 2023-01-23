@@ -9,3 +9,7 @@ from clogs import logstatus
 
 logstatus(level=0, message="If you see this, it was successful!")
 ```
+
+<h3>Output</h3>
+
+![Results](https://cdn.discordapp.com/attachments/1063777500796297247/1066953979520614410/example.png)
